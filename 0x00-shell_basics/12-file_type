@@ -1,2 +1,2 @@
 #!/bin/bash
-#hfiile /tmp/iamafile
+file /tmp/imafile
